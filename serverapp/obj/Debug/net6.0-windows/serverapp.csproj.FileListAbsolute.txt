@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\serverapp\bin\Debug\net6.0-windows\serverapp.exe
+C:\Users\user\source\repos\serverapp\bin\Debug\net6.0-windows\serverapp.deps.json
+C:\Users\user\source\repos\serverapp\bin\Debug\net6.0-windows\serverapp.runtimeconfig.json
+C:\Users\user\source\repos\serverapp\bin\Debug\net6.0-windows\serverapp.dll
+C:\Users\user\source\repos\serverapp\bin\Debug\net6.0-windows\serverapp.pdb
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.server.resources
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.AssemblyInfo.cs
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.dll
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\refint\serverapp.dll
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.pdb
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\serverapp.genruntimeconfig.cache
+C:\Users\user\source\repos\serverapp\obj\Debug\net6.0-windows\ref\serverapp.dll

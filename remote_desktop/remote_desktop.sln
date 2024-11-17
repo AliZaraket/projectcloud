@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "..\..\..\Documents\sem 8\Network 2\remote-desktop-viewer-main\server\server\server.csproj", "{C51EF013-103C-4992-9545-2AA0651206D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "..\..\..\Documents\sem 8\Network 2\remote-desktop-viewer-main\client\client\client.csproj", "{A795E7D5-17B3-45DA-B82A-14E76B7762E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51EF013-103C-4992-9545-2AA0651206D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51EF013-103C-4992-9545-2AA0651206D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51EF013-103C-4992-9545-2AA0651206D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51EF013-103C-4992-9545-2AA0651206D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A795E7D5-17B3-45DA-B82A-14E76B7762E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A795E7D5-17B3-45DA-B82A-14E76B7762E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A795E7D5-17B3-45DA-B82A-14E76B7762E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A795E7D5-17B3-45DA-B82A-14E76B7762E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE9A92B-2CD8-4275-B28C-1C3599222378}
+	EndGlobalSection
+EndGlobal

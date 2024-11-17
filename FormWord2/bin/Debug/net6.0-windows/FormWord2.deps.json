@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FormWord2/1.0.0": {
+        "dependencies": {
+          "TelerikWinCompositeUI": "2012.1.321.20"
+        },
+        "runtime": {
+          "FormWord2.dll": {}
+        }
+      },
+      "TelerikWinCompositeUI/2012.1.321.20": {
+        "runtime": {
+          "lib/Microsoft.Practices.CompositeUI.WinForms.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          },
+          "lib/Microsoft.Practices.CompositeUI.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          },
+          "lib/Microsoft.Practices.ObjectBuilder.dll": {
+            "assemblyVersion": "1.0.51206.0",
+            "fileVersion": "1.0.51206.0"
+          },
+          "lib/Telerik.WinControls.CompositeUI.dll": {
+            "assemblyVersion": "2012.1.321.20",
+            "fileVersion": "2012.1.321.20"
+          },
+          "lib/Telerik.WinControls.GridView.dll": {
+            "assemblyVersion": "2012.1.321.20",
+            "fileVersion": "2012.1.321.20"
+          },
+          "lib/Telerik.WinControls.RadChart.dll": {
+            "assemblyVersion": "2012.1.321.20",
+            "fileVersion": "2012.1.321.20"
+          },
+          "lib/Telerik.WinControls.RadDock.dll": {
+            "assemblyVersion": "2012.1.321.20",
+            "fileVersion": "2012.1.321.20"
+          },
+          "lib/Telerik.WinControls.UI.dll": {
+            "assemblyVersion": "2012.1.321.20",
+            "fileVersion": "2012.1.321.20"
+          },
+          "lib/Telerik.WinControls.dll": {
+            "assemblyVersion": "2012.1.321.20",
+            "fileVersion": "2012.1.321.20"
+          },
+          "lib/TelerikCommon.dll": {
+            "assemblyVersion": "2012.1.321.20",
+            "fileVersion": "2012.1.321.20"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormWord2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TelerikWinCompositeUI/2012.1.321.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sAlpe0fsb2R2Gpz4FQvn7wIhRoTJNiZ6VBBl/n8wtoNL9TaXTAnOQdTwGx3SVQlfvRqVFnWW63LJQpUlcxvv7A==",
+      "path": "telerikwincompositeui/2012.1.321.20",
+      "hashPath": "telerikwincompositeui.2012.1.321.20.nupkg.sha512"
+    }
+  }
+}

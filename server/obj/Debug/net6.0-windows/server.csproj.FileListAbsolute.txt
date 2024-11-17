@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\server\obj\Debug\net6.0-windows\server.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\server\obj\Debug\net6.0-windows\RemoteDesktopServer.ServerForm.resources
+C:\Users\user\source\repos\server\obj\Debug\net6.0-windows\server.csproj.GenerateResource.cache
+C:\Users\user\source\repos\server\obj\Debug\net6.0-windows\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\server\obj\Debug\net6.0-windows\server.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\server\obj\Debug\net6.0-windows\server.AssemblyInfo.cs
+C:\Users\user\source\repos\server\obj\Debug\net6.0-windows\server.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\client_desktop\bin\Debug\net6.0\client_desktop.exe
+C:\Users\user\source\repos\client_desktop\bin\Debug\net6.0\client_desktop.deps.json
+C:\Users\user\source\repos\client_desktop\bin\Debug\net6.0\client_desktop.runtimeconfig.json
+C:\Users\user\source\repos\client_desktop\bin\Debug\net6.0\client_desktop.dll
+C:\Users\user\source\repos\client_desktop\bin\Debug\net6.0\client_desktop.pdb
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\client_desktop.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\client_desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\client_desktop.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\client_desktop.AssemblyInfo.cs
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\client_desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\client_desktop.dll
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\refint\client_desktop.dll
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\client_desktop.pdb
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\client_desktop.genruntimeconfig.cache
+C:\Users\user\source\repos\client_desktop\obj\Debug\net6.0\ref\client_desktop.dll

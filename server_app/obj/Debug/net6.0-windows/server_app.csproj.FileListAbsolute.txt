@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\server_app\bin\Debug\net6.0-windows\server_app.exe
+C:\Users\user\source\repos\server_app\bin\Debug\net6.0-windows\server_app.deps.json
+C:\Users\user\source\repos\server_app\bin\Debug\net6.0-windows\server_app.runtimeconfig.json
+C:\Users\user\source\repos\server_app\bin\Debug\net6.0-windows\server_app.dll
+C:\Users\user\source\repos\server_app\bin\Debug\net6.0-windows\server_app.pdb
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.csproj.GenerateResource.cache
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.AssemblyInfo.cs
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.dll
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\refint\server_app.dll
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.pdb
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.genruntimeconfig.cache
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\ref\server_app.dll
+C:\Users\user\source\repos\server_app\obj\Debug\net6.0-windows\server_app.Server.resources

@@ -1,0 +1,6 @@
+﻿Build started at 5:14 PM...
+1>------ Build started: Project: ConsoleApplication9, Configuration: Debug x64 ------
+1>ConsoleApplication9.cpp
+1>ConsoleApplication9.vcxproj -> C:\Users\user\source\repos\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 5:14 PM and took 01.100 seconds ==========
